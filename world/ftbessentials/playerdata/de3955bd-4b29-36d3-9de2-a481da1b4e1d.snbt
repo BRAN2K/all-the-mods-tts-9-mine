@@ -1,0 +1,22 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "minecraft:overworld", x: 4094, y: 44, z: 21, time: 1725666704665L, xRot: 17.09903f, yRot: 171.3384f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "bloodmagic:dungeon", x: 15, y: 124, z: -7, time: 1724112109525L }
+		{ dim: "minecraft:overworld", x: 4026, y: 68, z: 72, time: 1724112141651L }
+		{ dim: "bloodmagic:dungeon", x: -2, y: 127, z: -1, time: 1724112658950L }
+		{ dim: "minecraft:overworld", x: 4108, y: 67, z: 11, time: 1724123157102L }
+		{ dim: "minecraft:the_end", x: 41, y: 101, z: -25, time: 1724282613940L }
+		{ dim: "minecraft:the_end", x: 32, y: 63, z: -13, time: 1724282754944L }
+		{ dim: "minecraft:the_end", x: 1163, y: 57, z: 1755, time: 1724283921674L }
+		{ dim: "minecraft:overworld", x: 4172, y: 68, z: -61, time: 1724541300317L }
+		{ dim: "minecraft:the_end", x: 9879, y: 106, z: 10028, time: 1724547710990L }
+		{ dim: "minecraft:the_end", x: 9940, y: 121, z: 10051, time: 1724890739365L }
+	]
+	homes: { }
+	kit_use_times: { }
+}

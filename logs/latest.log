@@ -1,0 +1,855 @@
+[06Sep2024 02:43:57.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BRAN2K[/152.254.161.241:60520] logged in with entity id 369728 at (4200.610530855318, 70.24341321608179, 87.26559927156138)
+[06Sep2024 02:43:57.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K joined the game
+[06Sep2024 02:43:57.966] [Server thread/INFO] [Jade/]: Syncing config to BRAN2K (d3d3c7a6-0edf-30d6-81a5-43e9e3b888d6)
+[06Sep2024 02:43:58.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 02:43:58.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 02:49:23.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 02:54:53.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 03:00:23.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 03:05:21.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/401385, l='ServerLevel[world]', x=437.16, y=65.00, z=127.35] died: Withering Archer was slain by BRAN2K
+[06Sep2024 03:05:53.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 03:06:32.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Overseer Patricia the Sneaky'/402664, l='ServerLevel[world]', x=479.80, y=74.00, z=208.93] died: Overseer Patricia the Sneaky was slain by BRAN2K
+[06Sep2024 03:07:16.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 10.329871135956182,0.0,-15.212978412029528
+[06Sep2024 03:11:23.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 03:12:18.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 03:12:18.896] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 03:17:53.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 03:23:23.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 03:28:53.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 03:32:44.559] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_energy_cube: MISSING_INGREDIENT [Detail: GenericStack[what=MekanismKey{stack=[InfuseType: mekanism:redstone]}, amount=40]]
+[06Sep2024 03:32:46.009] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_energy_cube: MISSING_INGREDIENT [Detail: GenericStack[what=MekanismKey{stack=[InfuseType: mekanism:redstone]}, amount=40]]
+[06Sep2024 03:33:35.060] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=mekanism:elite_control_circuit, amount=4]]
+[06Sep2024 03:33:59.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K lost connection: Disconnected
+[06Sep2024 03:33:59.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K left the game
+[06Sep2024 03:33:59.606] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Sep2024 09:21:53.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spenser11_[/177.162.71.95:50533] logged in with entity id 441645 at (4172.933010275597, 67.0, -15.073095965486088)
+[06Sep2024 09:21:53.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ joined the game
+[06Sep2024 09:21:53.697] [Server thread/INFO] [Jade/]: Syncing config to Spenser11_ (0cc93059-3bde-3936-a566-490603b34e7b)
+[06Sep2024 09:21:54.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 09:27:15.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 09:45:50.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ moved wrongly!
+[06Sep2024 09:47:13.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 09:56:34.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 09:59:41.875] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 10:00:29.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ lost connection: Disconnected
+[06Sep2024 10:00:29.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ left the game
+[06Sep2024 13:44:04.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BRAN2K[/152.254.161.241:64710] logged in with entity id 621082 at (4283.1075960416065, 67.0, 23.566078725540848)
+[06Sep2024 13:44:04.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K joined the game
+[06Sep2024 13:44:04.374] [Server thread/INFO] [Jade/]: Syncing config to BRAN2K (d3d3c7a6-0edf-30d6-81a5-43e9e3b888d6)
+[06Sep2024 13:47:36.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Gave 1    [Oblivion Shard] to BRAN2K]
+[06Sep2024 13:49:43.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.15578148416170734,-10.0,-0.12403690206253692
+[06Sep2024 14:02:11.991] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 14:03:10.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:03:38.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.2142010888828736,-12.0,0.372326954479135
+[06Sep2024 14:04:38.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Eterna, Quanta, Arcana]
+[06Sep2024 14:06:31.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.13894862232882588,11.246800019478798,-0.19999998807907104
+[06Sep2024 14:07:43.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.1245555583773239,-12.0,-0.2965748192824549
+[06Sep2024 14:08:10.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.23519709436095582,-12.0,0.053627045890749514
+[06Sep2024 14:08:18.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.28940852413779794,11.580000013113022,-0.13500073280266633
+[06Sep2024 14:08:25.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.3763227717117843,-12.0,0.0841390538392659
+[06Sep2024 14:08:40.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:08:45.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.09794029458680598,-12.0,-0.16728597825859026
+[06Sep2024 14:09:13.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.06240522947246063,-12.0,-0.14624395298604043
+[06Sep2024 14:09:30.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.19791626389269368,11.580000013113022,-0.19999998807907104
+[06Sep2024 14:09:36.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.11483715920439863,-12.0,-0.10593267675176321
+[06Sep2024 14:09:44.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.052401956288122165,11.246800019478798,-0.19999998807907104
+[06Sep2024 14:10:03.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.3268100240429703,11.246800019478798,-0.05784107277418116
+[06Sep2024 14:10:09.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.14402347315899533,-12.0,-0.20919417310869903
+[06Sep2024 14:10:34.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.08369093686542328,11.246800019478798,-0.19999998807907104
+[06Sep2024 14:10:48.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.14636205429087568,11.246800019478798,-0.08370840252489131
+[06Sep2024 14:10:52.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.26411490154896455,-12.0,-0.35287396271202454
+[06Sep2024 14:11:02.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.2952611692244318,11.580000013113022,-0.05044967477680018
+[06Sep2024 14:11:06.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.10263059676526609,-12.0,-0.1066913448618294
+[06Sep2024 14:11:29.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.3366495390491764,10.998664020887851,-0.19999998807907104
+[06Sep2024 14:11:38.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.05385067967199575,-12.0,-0.47662055464019204
+[06Sep2024 14:11:50.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.25792651507799746,11.246800019478798,0.36940004506762136
+[06Sep2024 14:11:54.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.01280874833719281,-12.0,0.24569369255186757
+[06Sep2024 14:12:11.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.38342005374852306,11.246800019478798,0.12721208771483816
+[06Sep2024 14:12:21.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.032489921932210564,11.246800019478798,-0.07974854010335264
+[06Sep2024 14:12:26.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.07878600410094805,-12.0,-0.19815850402368085
+[06Sep2024 14:12:38.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.017593834303625044,11.580000013113022,-0.1891962868764665
+[06Sep2024 14:12:41.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.2977558598486212,-12.0,-0.23576121723029075
+[06Sep2024 14:12:48.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.26331969900275,11.580000013113022,-0.01937015628067229
+[06Sep2024 14:12:52.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.22422685016681498,-12.0,0.09671664628358201
+[06Sep2024 14:13:18.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.0895536346206427,-12.0,0.3145573495618379
+[06Sep2024 14:13:31.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.04957758946784452,11.246800019478798,-0.10102239435933313
+[06Sep2024 14:13:58.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.4148330026428084,11.246800019478798,0.15412625499325827
+[06Sep2024 14:14:00.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.05092338903887139,-12.0,-0.24784122104325945
+[06Sep2024 14:14:10.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:15:21.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.00858086169591843,11.580000013113022,-0.10509127733234891
+[06Sep2024 14:19:40.193] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 14:19:40.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:21:25.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.08661996031696617,-13.1875,-0.26249998807907104
+[06Sep2024 14:22:24.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.05670120672402845,-10.0,-0.32578351726083277
+[06Sep2024 14:23:27.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [BIG EMC Batteries]
+[06Sep2024 14:25:10.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:25:25.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Gave 1    [Mechanical Arm] to BRAN2K]
+[06Sep2024 14:27:57.425] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=MekanismKey{stack=[InfuseType: mekanism:redstone]}, amount=10]]
+[06Sep2024 14:29:54.408] [Server thread/WARN] [AE2:S/]: Crafting CPU inventory is not empty yet a job was submitted.
+[06Sep2024 14:30:40.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:33:29.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Set own game mode to Creative Mode]
+[06Sep2024 14:33:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Set own game mode to Survival Mode]
+[06Sep2024 14:36:10.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:41:40.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:47:10.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:52:40.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 14:58:10.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:02:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K sacrificed a bit too much LP
+[06Sep2024 15:02:45.456] [Server thread/INFO] [tombstone/]: The player BRAN2K has successfully been saved
+[06Sep2024 15:02:47.642] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 15:03:40.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:09:10.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:11:41.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Gave 1    [Heat Core] to BRAN2K]
+[06Sep2024 15:14:40.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:16:37.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.22853747358021792,-13.0,-0.04828716838053282
+[06Sep2024 15:16:38.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.45810027285915567,-10.0,-0.08125606737942093
+[06Sep2024 15:17:51.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.30328853916671505,12.580000013113022,-0.13807340295304726
+[06Sep2024 15:20:10.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:21:49.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sallomma[/177.81.75.118:3367] logged in with entity id 958803 at (4313.403381729958, 67.0, -3.639579469191521)
+[06Sep2024 15:21:49.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma joined the game
+[06Sep2024 15:21:49.183] [Server thread/INFO] [Jade/]: Syncing config to sallomma (dbb23aa6-5528-3b41-829b-d348a66ef746)
+[06Sep2024 15:22:43.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.19688706016495416,-12.0,0.17487975576801773
+[06Sep2024 15:22:45.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> aob
+[06Sep2024 15:23:18.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> falta poco pra zerar
+[06Sep2024 15:23:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> sim
+[06Sep2024 15:23:34.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> falta qual pra vc
+[06Sep2024 15:23:57.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> abelha, blood magin, ars noveau e force
+[06Sep2024 15:24:06.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> force eu to fazendo
+[06Sep2024 15:24:21.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> vc ja deu check em tudow
+[06Sep2024 15:24:22.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ?
+[06Sep2024 15:24:30.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> eu to fazendo so as coisas que precisam pra etrrela
+[06Sep2024 15:24:33.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> como assim?
+[06Sep2024 15:25:00.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ja tem algumas no sistema
+[06Sep2024 15:25:40.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:28:00.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> dimensional seed e oblivion shard
+[06Sep2024 15:28:19.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> so faltam 3 coisas da estrela pra mim
+[06Sep2024 15:28:42.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> o resto ta no sistema?
+[06Sep2024 15:28:51.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> acho q sim
+[06Sep2024 15:29:03.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> foda que algumas coisas precisam recraftar eu acho
+[06Sep2024 15:29:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> tipo o nexium emitter
+[06Sep2024 15:30:05.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> a do dragon vc ja tem?
+[06Sep2024 15:30:08.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> esse mod eh mt esquisito
+[06Sep2024 15:30:46.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 15:30:47.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:33:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> o buraco negro vai ser o mais dificl acho
+[06Sep2024 15:33:53.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> to terminando ele
+[06Sep2024 15:33:57.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> so falta ferro
+[06Sep2024 15:34:02.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> e o ouro ja fez?
+[06Sep2024 15:34:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> q outro
+[06Sep2024 15:34:11.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ouro
+[06Sep2024 15:34:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> bloco de outro 5x
+[06Sep2024 15:34:28.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ouro*
+[06Sep2024 15:34:43.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> de ouro ta fazendo
+[06Sep2024 15:35:01.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> faltam 6 de 4x
+[06Sep2024 15:36:18.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:40:01.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.20071818289488874,11.580000013113022,0.030298668848701027
+[06Sep2024 15:40:47.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ja mato a chimera?
+[06Sep2024 15:41:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Magic Mod Mechanic]
+[06Sep2024 15:41:29.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> acho q n
+[06Sep2024 15:41:48.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:42:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> vem mata entao
+[06Sep2024 15:42:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> oinde
+[06Sep2024 15:42:27.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> na oca
+[06Sep2024 15:43:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> pego?
+[06Sep2024 15:43:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> oq
+[06Sep2024 15:43:29.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> o drop do bicho
+[06Sep2024 15:43:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ue
+[06Sep2024 15:43:51.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> acho q foi pq eu quebrei
+[06Sep2024 15:44:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ué
+[06Sep2024 15:44:38.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> poe o jarro aqui
+[06Sep2024 15:45:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ata
+[06Sep2024 15:46:16.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has reached the goal [A Small Cemetery]
+[06Sep2024 15:47:18.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:47:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> deixa eu te matar rapidao
+[06Sep2024 15:48:00.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> n pode
+[06Sep2024 15:48:02.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> pq
+[06Sep2024 15:48:05.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> mt xp
+[06Sep2024 15:48:08.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> guarad la
+[06Sep2024 15:48:12.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> eu n
+[06Sep2024 15:48:16.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> mata o igor quando entrar
+[06Sep2024 15:48:17.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> preciso
+[06Sep2024 15:49:01.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [First Prayer]
+[06Sep2024 15:49:48.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> cade a chimera
+[06Sep2024 15:50:20.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> volta aqui
+[06Sep2024 15:50:22.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> agr vai
+[06Sep2024 15:51:24.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has completed the challenge [Wait, it can fly?]
+[06Sep2024 15:51:24.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has completed the challenge [Wait, it can fly?]
+[06Sep2024 15:51:27.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Wilden Tribute]
+[06Sep2024 15:51:33.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> pego?
+[06Sep2024 15:51:48.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Wilden Tribute]
+[06Sep2024 15:52:36.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has reached the goal [Tier 3]
+[06Sep2024 15:52:48.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:55:57.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> cade o ouro?
+[06Sep2024 15:56:30.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> usei pra fazer o 5x
+[06Sep2024 15:56:35.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> e cada o 5x?
+[06Sep2024 15:56:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> vc pegou?
+[06Sep2024 15:56:43.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> nao
+[06Sep2024 15:57:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ue
+[06Sep2024 15:57:09.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> tava craftando
+[06Sep2024 15:57:13.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> sumiu
+[06Sep2024 15:57:18.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.18743984162119887,-13.0,0.3381289914715815
+[06Sep2024 15:58:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> bugou
+[06Sep2024 15:58:06.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Summoning Focus]
+[06Sep2024 15:58:18.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 15:58:31.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Gave 1    [Block of Gold 5x] to BRAN2K]
+[06Sep2024 15:58:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> cd vc?
+[06Sep2024 15:58:43.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.10084049382930971,-10.0,-0.33005395119622527
+[06Sep2024 15:59:31.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.0,12.580000013113022,0.0
+[06Sep2024 15:59:33.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.0,-13.0,0.0
+[06Sep2024 15:59:46.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> no meio
+[06Sep2024 16:00:29.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:00:29.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 16:00:33.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.0,12.7354399869442,0.0
+[06Sep2024 16:03:04.524] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:05.375] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:05.577] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:05.711] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:05.839] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:05.963] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:06.112] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:06.224] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:06.367] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:06.476] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 4xthermal_extra:machine_speed_augment_4: MISSING_INGREDIENT [Detail: GenericStack[what=chemlib:potassium_nitrate_dust, amount=1]]
+[06Sep2024 16:03:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Local Brewery]
+[06Sep2024 16:06:03.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:06:40.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has reached the goal [Tier 4]
+[06Sep2024 16:07:57.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Summoning Focus]
+[06Sep2024 16:08:02.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has reached the goal [Tier 1]
+[06Sep2024 16:08:02.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has reached the goal [Tier 2]
+[06Sep2024 16:08:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has reached the goal [Tier 3]
+[06Sep2024 16:08:02.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has reached the goal [Tier 4]
+[06Sep2024 16:08:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has reached the goal [Tier 5]
+[06Sep2024 16:11:33.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:14:46.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:14:46.894] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 16:19:22.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has reached the goal [Tier 6]
+[06Sep2024 16:20:18.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:20:49.772] [Server thread/INFO] [forcecraft/]: A Time Torch has been placed at BlockPos{x=4094, y=67, z=19} by BRAN2K
+[06Sep2024 16:21:39.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -4.686046445873217,-2.252203340253729,42.056397562401784
+[06Sep2024 16:22:26.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has reached the goal [Tier 7]
+[06Sep2024 16:25:48.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:26:10.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> nunca vi um mod tao inutil igual esse forcecraft
+[06Sep2024 16:27:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> q q ele faz?
+[06Sep2024 16:27:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> nd de util
+[06Sep2024 16:28:01.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> na real a unica coisa util q tem eh uma varina q da tp pra um local que vc define
+[06Sep2024 16:31:18.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:32:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Vivid Wave]
+[06Sep2024 16:33:03.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Live Drive]
+[06Sep2024 16:33:14.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:33:14.894] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 16:34:37.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Transmute this into that!]
+[06Sep2024 16:34:48.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Transmutation on the go!]
+[06Sep2024 16:35:18.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [EMC Batteries]
+[06Sep2024 16:36:18.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [The Citadel at the End of Time]
+[06Sep2024 16:37:17.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> to com 2k de xp
+[06Sep2024 16:37:19.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> como
+[06Sep2024 16:38:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ow
+[06Sep2024 16:38:12.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> sabe onde ta o pedestalw
+[06Sep2024 16:38:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ?
+[06Sep2024 16:38:26.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> na mob farm
+[06Sep2024 16:38:48.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:39:43.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Teleported BRAN2K to sallomma]
+[06Sep2024 16:39:43.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -172.91143986248426,-2.782797189770335,-5.54220075046058
+[06Sep2024 16:40:15.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> quanto de xp vc ta
+[06Sep2024 16:40:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> 1200
+[06Sep2024 16:40:27.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> do nd eu to com 2062
+[06Sep2024 16:40:33.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> foi as quests q vc fez
+[06Sep2024 16:40:40.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> tem umas q da 1000
+[06Sep2024 16:44:09.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved wrongly!
+[06Sep2024 16:44:18.899] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:47:46.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 16:47:47.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:50:46.669] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1000xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 16:50:47.665] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1000xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 16:53:18.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 16:56:02.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Gotta work, bees!]
+[06Sep2024 16:58:48.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:01:14.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved wrongly!
+[06Sep2024 17:03:02.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.4858009107338148,12.246800019478798,-0.15781038653097568
+[06Sep2024 17:04:18.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:04:21.082] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 3xmegacells:cell_component_64m: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 17:04:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Point to Point Networking]
+[06Sep2024 17:08:42.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Accelerator is an understatement]
+[06Sep2024 17:09:48.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:10:53.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ta fazendo oq agr?
+[06Sep2024 17:11:00.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> terminando quest do applied
+[06Sep2024 17:11:03.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> e do refined
+[06Sep2024 17:11:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> do applied so falta o de 64 e de 256
+[06Sep2024 17:11:34.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Viewing fluids]
+[06Sep2024 17:11:47.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Wireless fluids]
+[06Sep2024 17:15:18.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:16:31.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:16:31.896] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 17:21:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [No cables required]
+[06Sep2024 17:21:36.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Enchanter]
+[06Sep2024 17:22:02.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Storing externally]
+[06Sep2024 17:22:05.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:22:29.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Better than a barrel]
+[06Sep2024 17:22:43.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ta fazendo o que?
+[06Sep2024 17:23:09.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Upgrading]
+[06Sep2024 17:23:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Destruction]
+[06Sep2024 17:23:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> rodrigo
+[06Sep2024 17:24:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> faz um livro de silk touch pra mim pf
+[06Sep2024 17:24:05.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Teleported BRAN2K to sallomma]
+[06Sep2024 17:24:05.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 40.59757291186452,-24.11506899857811,-68.94834158766238
+[06Sep2024 17:24:16.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> n sei fazer livro
+[06Sep2024 17:25:04.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> preciso de um silk touch e um fortune 3
+[06Sep2024 17:25:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Construction]
+[06Sep2024 17:25:25.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Importing]
+[06Sep2024 17:25:36.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Exporting]
+[06Sep2024 17:27:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Crafting on demand]
+[06Sep2024 17:27:35.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:29:03.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Local Brewery]
+[06Sep2024 17:29:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [The Chaos of Hell]
+[06Sep2024 17:29:32.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.10129989457982447,11.580000013113022,-0.1404758031329152
+[06Sep2024 17:31:49.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.048667065025256306,12.246800019478798,0.12190105836529064
+[06Sep2024 17:33:05.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:34:10.804] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 17:34:36.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [The Basics]
+[06Sep2024 17:34:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Introduction to Chaos]
+[06Sep2024 17:34:58.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [A block that Matters!]
+[06Sep2024 17:35:24.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Hot matter!]
+[06Sep2024 17:35:54.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Using Matter on Matter]
+[06Sep2024 17:36:34.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> rodrigo
+[06Sep2024 17:36:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> precisa melhorar a farm de semente
+[06Sep2024 17:36:42.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ta mt lenta
+[06Sep2024 17:38:35.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:39:15.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Mastering the Inferno]
+[06Sep2024 17:39:38.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ta fazendo o q
+[06Sep2024 17:39:50.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> apotheosis
+[06Sep2024 17:39:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> pra encanta
+[06Sep2024 17:40:05.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved wrongly!
+[06Sep2024 17:40:11.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> kkkkkkkkk
+[06Sep2024 17:40:15.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> devolve eu
+[06Sep2024 17:41:45.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:41:45.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 17:43:25.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has reached the goal [Mastering Hell and Sea]
+[06Sep2024 17:43:25.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Eterna, Quanta, Arcana]
+[06Sep2024 17:43:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Delving Into Darkness]
+[06Sep2024 17:45:13.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.36991813300573995,-13.0,-0.3380854745035986
+[06Sep2024 17:45:56.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nigror[/177.9.50.215:62743] logged in with entity id 1662093 at (4178.422826783291, 67.0, 11.135352951100002)
+[06Sep2024 17:45:56.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror joined the game
+[06Sep2024 17:45:56.325] [Server thread/INFO] [Jade/]: Syncing config to Nigror (de3955bd-4b29-36d3-9de2-a481da1b4e1d)
+[06Sep2024 17:46:40.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Embracing the Sculk]
+[06Sep2024 17:46:54.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> igor
+[06Sep2024 17:47:00.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved too quickly! 0.005408054429608455,11.580000013113022,-0.19999998807907104
+[06Sep2024 17:47:04.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> eu
+[06Sep2024 17:47:06.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.37864737884774513,-12.0,0.15246888446220908
+[06Sep2024 17:47:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> vc completou a ultima task do mek advanced
+[06Sep2024 17:47:18.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ?
+[06Sep2024 17:47:18.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:47:19.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> tamo a zerar
+[06Sep2024 17:47:30.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! -0.04027221018168348,10.379999971389765,-0.19999998807907104
+[06Sep2024 17:47:58.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> nao completei nada
+[06Sep2024 17:48:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> basicamente
+[06Sep2024 17:48:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> pq eu precisaria quebrar o reator
+[06Sep2024 17:48:19.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> ou fazer mais blocos
+[06Sep2024 17:48:34.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> pra liberar as missoes anteriores
+[06Sep2024 17:48:37.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> vc tem silktouch?
+[06Sep2024 17:48:50.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> a ultma task é qual?
+[06Sep2024 17:49:24.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> the end game power source
+[06Sep2024 17:50:02.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> n
+[06Sep2024 17:50:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> ta a arvore inteira do advanced bloqueada
+[06Sep2024 17:50:27.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> por causa do fission reactor block
+[06Sep2024 17:50:36.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> pq?
+[06Sep2024 17:50:56.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K lost connection: Disconnected
+[06Sep2024 17:50:56.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K left the game
+[06Sep2024 17:51:23.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! -0.23547105627403653,-12.0,0.024200758002166367
+[06Sep2024 17:51:41.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BRAN2K[/152.254.161.241:54988] logged in with entity id 1698424 at (4105.763521329343, 44.0, 5.327073515310817)
+[06Sep2024 17:51:41.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K joined the game
+[06Sep2024 17:51:41.427] [Server thread/INFO] [Jade/]: Syncing config to BRAN2K (d3d3c7a6-0edf-30d6-81a5-43e9e3b888d6)
+[06Sep2024 17:51:50.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved wrongly!
+[06Sep2024 17:51:52.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.24074944691801647,10.471039930448534,-0.013406431117601869
+[06Sep2024 17:52:32.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.1218218417980097,12.246800019478798,-0.3947265363850292
+[06Sep2024 17:52:48.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:53:01.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> fizeram a estrela?
+[06Sep2024 17:53:26.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> quase
+[06Sep2024 17:53:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ainda n
+[06Sep2024 17:53:30.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> falta 3 itens
+[06Sep2024 17:53:31.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> falta o que
+[06Sep2024 17:53:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> bloco de ferro
+[06Sep2024 17:53:39.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> fornalha
+[06Sep2024 17:53:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> e ovo
+[06Sep2024 17:53:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> a fornalha so da pra fazer com abelha?
+[06Sep2024 17:54:06.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> o ovo é com a abelha
+[06Sep2024 17:54:13.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 17:54:13.896] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 17:54:33.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> vc ja fez as coisas do draconic do ovo?
+[06Sep2024 17:55:40.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> ué
+[06Sep2024 17:55:44.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> se nao fez a estrela
+[06Sep2024 17:55:55.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> como q a bateria infinita ta carregada
+[06Sep2024 17:56:46.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved wrongly!
+[06Sep2024 17:58:00.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> igor como muda do stack mode
+[06Sep2024 17:58:04.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> no draconic
+[06Sep2024 17:58:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> shift direito
+[06Sep2024 17:58:45.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved too quickly! -0.1156274089753424,11.580000013113022,-0.19999998807907104
+[06Sep2024 17:58:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> usa o auto complete
+[06Sep2024 17:58:57.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> como
+[06Sep2024 17:59:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> direito no meio
+[06Sep2024 17:59:48.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:02:14.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> como q consegue chaos shard?
+[06Sep2024 18:02:23.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> matando chaos dragon
+[06Sep2024 18:02:33.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> ou as abelhas produzindo
+[06Sep2024 18:03:21.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> falta so o ovo agr
+[06Sep2024 18:03:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> as coisas do draconic acabei de fazer
+[06Sep2024 18:04:02.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ai vai falta o buraco negro e a philosophal la
+[06Sep2024 18:04:25.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> as duas coisas que faltam mexe com abelha
+[06Sep2024 18:04:33.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> n sei abelha
+[06Sep2024 18:04:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> como assim?
+[06Sep2024 18:04:51.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> a fornalha é das plantas
+[06Sep2024 18:05:18.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:07:05.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.27381339280691464,12.246800019478798,-0.1383931452634215
+[06Sep2024 18:07:31.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has reached the goal [Trapped Inside]
+[06Sep2024 18:07:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Arcane Power]
+[06Sep2024 18:07:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Magical Energy]
+[06Sep2024 18:07:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has reached the goal [Enchantments from the Depths]
+[06Sep2024 18:07:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Quantum Entanglement]
+[06Sep2024 18:08:13.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has reached the goal [Dragon-Slaying Enchanter]
+[06Sep2024 18:08:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has completed the challenge [The Final Bookshelf]
+[06Sep2024 18:10:39.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Replace With Stone]
+[06Sep2024 18:10:48.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:11:59.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [The Purity of the Seas]
+[06Sep2024 18:12:51.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has completed the challenge [Draconic Enchanting]
+[06Sep2024 18:12:56.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:12:56.894] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 18:13:12.367] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 18:13:35.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> acabei o mekanism
+[06Sep2024 18:13:57.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.0,396.6511960272266,0.0
+[06Sep2024 18:13:57.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.0,396.6511960272266,0.0
+[06Sep2024 18:14:00.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> chegueio na 50M FE
+[06Sep2024 18:16:12.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> achei como faz
+[06Sep2024 18:16:23.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> tambem,
+[06Sep2024 18:17:02.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> ala
+[06Sep2024 18:17:14.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> oq
+[06Sep2024 18:17:21.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> aqui
+[06Sep2024 18:17:28.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> kkkkkkk
+[06Sep2024 18:17:34.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> eu n consigo mexer
+[06Sep2024 18:17:41.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> mas nao carrega
+[06Sep2024 18:17:49.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> deixa eu ver
+[06Sep2024 18:17:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> o problema eh o flux point
+[06Sep2024 18:18:05.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> vc tem q ta na minha equipe pra ver
+[06Sep2024 18:18:16.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> entra la
+[06Sep2024 18:18:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> vdd
+[06Sep2024 18:18:30.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> a gente eh mt burro
+[06Sep2024 18:18:30.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:18:31.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> peonto
+[06Sep2024 18:18:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ta cada um fazendo as quests separados
+[06Sep2024 18:18:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> como q faz isso
+[06Sep2024 18:18:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> sendo q da pra compartilhar o progresso
+[06Sep2024 18:18:55.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> do lado do livro
+[06Sep2024 18:19:00.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> tem um botao de teams
+[06Sep2024 18:19:04.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> tres hominho colorido
+[06Sep2024 18:19:08.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> mas isso nao funciona
+[06Sep2024 18:19:15.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> a gente ja tinha visto isso
+[06Sep2024 18:19:21.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> funciona s
+[06Sep2024 18:19:50.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> geral escreve assim
+[06Sep2024 18:19:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ./ftb team leave
+[06Sep2024 18:20:48.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> nao existe esse comando
+[06Sep2024 18:20:54.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> sim
+[06Sep2024 18:20:58.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> to vendo iso
+[06Sep2024 18:21:27.542] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 3 chunks from Nigror#de3955bd to HOT_POCKET#1141624e
+[06Sep2024 18:21:27.543] [Server thread/INFO] [FTB Chunks/]: Transferred 3 chunks from de3955bd-4b29-36d3-9de2-a481da1b4e1d (Nigror#de3955bd) to 1141624e-476f-4bf7-b1b5-198256da8261 (HOT_POCKET#1141624e)
+[06Sep2024 18:21:27.543] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for de3955bd-4b29-36d3-9de2-a481da1b4e1d (Nigror#de3955bd) due to claim limits
+[06Sep2024 18:21:27.543] [Server thread/INFO] [FTB Chunks/]: Team HOT_POCKET#1141624e had 7 claimed chunks, now has 10
+[06Sep2024 18:21:28.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ve se chegou igor
+[06Sep2024 18:21:38.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> q isso?
+[06Sep2024 18:22:03.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has completed the challenge [Only the Best]
+[06Sep2024 18:22:03.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Rolling the Dice]
+[06Sep2024 18:22:03.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has reached the goal [Maximum Strength]
+[06Sep2024 18:22:27.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> agr conta pra td mundo
+[06Sep2024 18:22:34.694] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from sallomma#dbb23aa6 to HOT_POCKET#1141624e
+[06Sep2024 18:22:34.694] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from dbb23aa6-5528-3b41-829b-d348a66ef746 (sallomma#dbb23aa6) to 1141624e-476f-4bf7-b1b5-198256da8261 (HOT_POCKET#1141624e)
+[06Sep2024 18:22:34.694] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for dbb23aa6-5528-3b41-829b-d348a66ef746 (sallomma#dbb23aa6) due to claim limits
+[06Sep2024 18:22:34.694] [Server thread/INFO] [FTB Chunks/]: Team HOT_POCKET#1141624e had 10 claimed chunks, now has 10
+[06Sep2024 18:22:57.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> cliquei e foi td
+[06Sep2024 18:23:01.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [The Ultimate Trash Can]
+[06Sep2024 18:23:02.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [The Chaos of Hell]
+[06Sep2024 18:23:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [The Purity of the Seas]
+[06Sep2024 18:23:02.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Delving Into Darkness]
+[06Sep2024 18:23:03.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has completed the challenge [The Final Bookshelf]
+[06Sep2024 18:23:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Make it count, 1, 2, 4.]
+[06Sep2024 18:23:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Connecting]
+[06Sep2024 18:23:13.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Crafting on demand]
+[06Sep2024 18:23:47.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> agr s
+[06Sep2024 18:24:00.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> da pra ver o que falta de vdd pra todos
+[06Sep2024 18:24:00.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:24:01.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Do more at once, faster!]
+[06Sep2024 18:24:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> olha seus itens aqui no chao igor
+[06Sep2024 18:24:47.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> dropou um enderdragon datamodel advanced
+[06Sep2024 18:24:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> kkkkk
+[06Sep2024 18:25:17.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Do more at once!]
+[06Sep2024 18:25:30.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has reached the goal [Flawless Crystals]
+[06Sep2024 18:25:33.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [The Ultimate Trash Can]
+[06Sep2024 18:25:35.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Shocking]
+[06Sep2024 18:25:35.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Connecting]
+[06Sep2024 18:25:36.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Crafting on demand]
+[06Sep2024 18:25:38.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [The Chaos of Hell]
+[06Sep2024 18:25:38.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [The Purity of the Seas]
+[06Sep2024 18:25:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Delving Into Darkness]
+[06Sep2024 18:25:39.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has completed the challenge [The Final Bookshelf]
+[06Sep2024 18:25:45.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> q isso igor
+[06Sep2024 18:26:30.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has completed the challenge [Lost Treasures of the Gods]
+[06Sep2024 18:26:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> sla
+[06Sep2024 18:26:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> desbloqueie nos items
+[06Sep2024 18:27:12.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has completed the challenge [Almost Unkillable]
+[06Sep2024 18:27:12.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma was slain by Nigror
+[06Sep2024 18:27:12.779] [Server thread/INFO] [tombstone/]: The player sallomma has successfully been saved
+[06Sep2024 18:27:12.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> -
+[06Sep2024 18:27:13.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:27:13.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 18:27:14.948] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 18:27:16.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> lol
+[06Sep2024 18:27:23.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> devolve o xp
+[06Sep2024 18:27:35.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> oq q é isso doidao
+[06Sep2024 18:27:44.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> q xp é esse
+[06Sep2024 18:27:48.615] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xextrastorage:storagepart_4096k: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 18:28:16.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> pra encanta
+[06Sep2024 18:30:50.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.0,396.3400732781424,0.0
+[06Sep2024 18:30:50.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.0,396.3400732781424,0.0
+[06Sep2024 18:30:50.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.0,396.3400732781424,0.0
+[06Sep2024 18:30:50.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.0,396.3400732781424,0.0
+[06Sep2024 18:31:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> sai
+[06Sep2024 18:31:33.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> to com 2250
+[06Sep2024 18:31:58.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K was slain by Nigror
+[06Sep2024 18:31:58.278] [Server thread/INFO] [tombstone/]: The player BRAN2K has successfully been saved
+[06Sep2024 18:32:00.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> n para de aparecer notificação de quest
+[06Sep2024 18:32:01.136] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 18:32:03.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> fdp
+[06Sep2024 18:32:06.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> ué
+[06Sep2024 18:32:14.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> devolve ai
+[06Sep2024 18:32:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> minha arma nao da 2250 de dano
+[06Sep2024 18:32:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> xp ta aqui
+[06Sep2024 18:32:45.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:32:52.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> nossa perdeu mt
+[06Sep2024 18:33:34.606] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 18:37:58.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> tava fazendo esse
+[06Sep2024 18:38:15.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:38:50.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> tem q fazer o ovo
+[06Sep2024 18:41:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ganharam a quest?
+[06Sep2024 18:41:41.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved too quickly! 0.0,396.2744557815424,0.0
+[06Sep2024 18:42:05.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> qual?
+[06Sep2024 18:42:16.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> da fornalha
+[06Sep2024 18:42:33.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> como vc fez sem abelha?
+[06Sep2024 18:42:41.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> n precisa de abelha
+[06Sep2024 18:42:48.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> é negocio do mystical agricultures
+[06Sep2024 18:42:49.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> vc fez o philosofer fuel?
+[06Sep2024 18:42:54.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> da pra fazer
+[06Sep2024 18:43:03.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> mas vcs pegaram a quest da fornalha?
+[06Sep2024 18:43:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> onde q ta
+[06Sep2024 18:43:11.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> na estrela
+[06Sep2024 18:43:45.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> nome?
+[06Sep2024 18:43:45.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:43:56.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> ma furnace
+[06Sep2024 18:44:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> embaixo no meio
+[06Sep2024 18:44:07.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> sim
+[06Sep2024 18:44:10.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> foi aqui
+[06Sep2024 18:44:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> chama os caras la
+[06Sep2024 18:44:36.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nigror> no disc
+[06Sep2024 18:47:56.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> ow a task do mystical agriculture vaccum n sei q la no topo direito
+[06Sep2024 18:47:59.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> n conclui
+[06Sep2024 18:48:02.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRAN2K> alguem tenta ai
+[06Sep2024 18:48:13.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sallomma> entra na call
+[06Sep2024 18:49:15.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:51:02.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has completed the challenge [Angel of Death]
+[06Sep2024 18:52:13.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Careful does it.]
+[06Sep2024 18:54:45.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:55:59.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 18:55:59.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 18:56:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [I want that one and that one and that one.]
+[06Sep2024 18:56:45.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Double Whammy!]
+[06Sep2024 19:01:27.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [I want that one and that one and that one.]
+[06Sep2024 19:01:33.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:01:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Double Whammy!]
+[06Sep2024 19:04:16.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spenser11_[/177.162.71.95:54489] logged in with entity id 2151333 at (4108.538894171307, 67.0, -64.15918430622835)
+[06Sep2024 19:04:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ joined the game
+[06Sep2024 19:04:16.362] [Server thread/INFO] [Jade/]: Syncing config to Spenser11_ (0cc93059-3bde-3936-a566-490603b34e7b)
+[06Sep2024 19:05:46.571] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:47.372] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:47.587] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:47.722] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:47.825] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:47.964] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:48.087] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:48.222] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:48.339] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:48.475] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:48.617] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:48.738] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:48.838] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:48.936] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:49.039] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:49.236] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:49.539] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:49.725] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:49.821] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:49.968] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:05:51.426] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:51.970] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:52.090] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:52.238] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:05:52.374] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xmekanism:elite_induction_provider: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:06:33.137] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:06:33.734] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:06:33.887] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:06:34.020] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:06:34.141] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:06:34.272] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:06:34.417] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:34.538] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:34.688] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:34.822] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:34.987] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:35.126] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:35.274] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:35.424] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:35.618] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:35.773] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:35.920] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:36.065] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:36.191] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:36.366] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:06:36.519] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:36.672] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:36.836] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:36.986] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:37.180] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:37.267] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:37.574] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:37.687] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:37.840] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:37.970] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:38.136] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:38.237] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:38.390] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=3]]
+[06Sep2024 19:06:38.539] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:38.737] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:38.868] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:39.031] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:39.172] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:39.323] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:39.485] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:39.668] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:39.790] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:39.937] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:40.138] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:40.272] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=4]]
+[06Sep2024 19:06:40.488] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:40.624] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:40.775] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:40.971] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:41.090] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:41.268] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:41.419] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:41.543] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:41.718] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:41.872] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:42.041] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:42.175] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:42.367] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=5]]
+[06Sep2024 19:06:42.532] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:42.669] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:42.817] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:42.975] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:43.135] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:43.320] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:43.442] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:43.591] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:43.738] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:43.924] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:44.088] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=6]]
+[06Sep2024 19:06:44.423] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:44.626] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:44.772] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:44.937] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:45.085] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:45.243] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:45.373] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:45.531] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:45.641] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:45.774] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:45.872] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:45.969] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:46.087] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:46.224] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:46.328] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=7]]
+[06Sep2024 19:06:46.471] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=8]]
+[06Sep2024 19:06:46.589] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=8]]
+[06Sep2024 19:06:46.790] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=8]]
+[06Sep2024 19:06:46.967] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 70xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=8]]
+[06Sep2024 19:07:03.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:09:24.938] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 19:09:54.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ moved too quickly! -3965.4435417536665,-20.740199999809263,96.96162553897307
+[06Sep2024 19:12:33.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:15:25.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma moved too quickly! -7.568446442295226,0.0,8.624765270048748
+[06Sep2024 19:15:37.691] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 19:18:03.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:19:25.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:19:25.896] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 19:25:00.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:25:05.928] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Spenser11_#0cc93059 to HOT_POCKET#1141624e
+[06Sep2024 19:25:05.928] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 0cc93059-3bde-3936-a566-490603b34e7b (Spenser11_#0cc93059) to 1141624e-476f-4bf7-b1b5-198256da8261 (HOT_POCKET#1141624e)
+[06Sep2024 19:25:05.928] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 0cc93059-3bde-3936-a566-490603b34e7b (Spenser11_#0cc93059) due to claim limits
+[06Sep2024 19:25:05.928] [Server thread/INFO] [FTB Chunks/]: Team HOT_POCKET#1141624e had 10 claimed chunks, now has 10
+[06Sep2024 19:25:24.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Careful does it.]
+[06Sep2024 19:25:24.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Make it count, 1, 2, 4.]
+[06Sep2024 19:25:57.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Careful does it.]
+[06Sep2024 19:27:04.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ moved wrongly!
+[06Sep2024 19:30:30.899] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:32:16.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! -17.612187472759615,0.0,-4.977732785461544
+[06Sep2024 19:35:56.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ has made the advancement [Quantum Entanglement]
+[06Sep2024 19:36:00.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:41:12.179] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xpowah:dielectric_casing: MISSING_INGREDIENT [Detail: GenericStack[what=powah:dielectric_paste, amount=3]]
+[06Sep2024 19:41:13.225] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xpowah:dielectric_casing: MISSING_INGREDIENT [Detail: GenericStack[what=powah:dielectric_paste, amount=3]]
+[06Sep2024 19:41:30.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:47:00.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:48:11.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ moved wrongly!
+[06Sep2024 19:48:21.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:48:21.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 19:48:41.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ has made the advancement [Unnatural]
+[06Sep2024 19:51:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has reached the goal [Maximum Strength]
+[06Sep2024 19:51:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has completed the challenge [Only the Best]
+[06Sep2024 19:51:12.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Arcane Power]
+[06Sep2024 19:51:12.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Introduction to Chaos]
+[06Sep2024 19:51:12.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Magical Energy]
+[06Sep2024 19:51:12.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Rolling the Dice]
+[06Sep2024 19:53:55.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 19:54:48.025] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 2000xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:54:49.423] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 2000xminecraft:glass: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=2]]
+[06Sep2024 19:55:19.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Embracing the Sculk]
+[06Sep2024 19:57:15.732] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:gold_ingot, amount=1]]
+[06Sep2024 19:57:17.338] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:57:18.266] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:57:22.414] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:1024k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:gold_ingot, amount=1]]
+[06Sep2024 19:57:24.572] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:1024k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:57:25.226] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:1024k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:57:25.939] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:1024k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 19:57:27.667] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:1024k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:redstone, amount=1]]
+[06Sep2024 19:57:28.391] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:1024k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:redstone, amount=1]]
+[06Sep2024 19:59:25.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:04:03.427] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:iron_ingot, amount=1]]
+[06Sep2024 20:04:04.246] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=refinedstorage:basic_processor, amount=2]]
+[06Sep2024 20:04:05.071] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 20:04:06.874] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 20:04:07.539] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 20:04:08.077] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 20:04:08.227] [Server thread/INFO] [AE2:S/]: Couldn't submit crafting job for 1xrefinedstorage:4096k_fluid_storage_part: MISSING_INGREDIENT [Detail: GenericStack[what=minecraft:sand, amount=1]]
+[06Sep2024 20:04:55.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:05:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Sneak 100]
+[06Sep2024 20:08:40.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has completed the challenge [Alchemy, But Make It Sciencey]
+[06Sep2024 20:10:25.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:12:25.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Sleeping in the Cold Below]
+[06Sep2024 20:14:15.896] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:14:15.896] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 20:16:14.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.35957108372349467,-13.0,0.0024592368376605833
+[06Sep2024 20:17:52.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Mastering the Inferno]
+[06Sep2024 20:19:45.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:22:06.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.062002739863601164,11.580000013113022,-0.19999998807907104
+[06Sep2024 20:22:12.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.24439750833062135,-13.0,0.3585238457936937
+[06Sep2024 20:25:15.895] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:25:20.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ has completed the challenge [Lost Treasures of the Gods]
+[06Sep2024 20:27:39.415] [Server thread/WARN] [AE2:S/]: Crafting CPU inventory is not empty yet a job was submitted.
+[06Sep2024 20:29:01.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Claro[/177.33.137.63:10075] logged in with entity id 2656824 at (4135.614005722382, 187.5586808611228, -19.94527326529501)
+[06Sep2024 20:29:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro joined the game
+[06Sep2024 20:29:01.178] [Server thread/INFO] [Jade/]: Syncing config to Claro (aeb8acad-b07f-3592-936d-2db1c63c31db)
+[06Sep2024 20:29:47.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Claro moved too quickly! 0.0,12.158980014299452,0.0
+[06Sep2024 20:30:03.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ moved too quickly! -0.42515752989220346,-13.0,0.4969016211939028
+[06Sep2024 20:30:04.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ moved too quickly! 0.0,11.684800000190727,0.0
+[06Sep2024 20:30:09.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.0023933691290949355,-10.0,0.1849303766683157
+[06Sep2024 20:30:11.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.0054247457683231914,-10.0,0.40397831924852223
+[06Sep2024 20:30:14.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Claro moved too quickly! 0.23807494513221172,-10.0,-0.05651574670401516
+[06Sep2024 20:30:28.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.0,12.580000013113022,0.0
+[06Sep2024 20:30:45.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:31:18.894] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:31:18.895] [Server thread/INFO] [draconicevolution/]: Stopped rain! Cause: BlockPos{x=4307, y=67, z=35}
+[06Sep2024 20:34:00.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has completed the challenge [It Spreads]
+[06Sep2024 20:34:19.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ was slain by Nigror
+[06Sep2024 20:34:19.379] [Server thread/INFO] [tombstone/]: The player Spenser11_ has successfully been saved
+[06Sep2024 20:34:20.668] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 20:35:02.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ has made the advancement [Mastering the Inferno]
+[06Sep2024 20:35:32.495] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Claro#aeb8acad to HOT_POCKET#1141624e
+[06Sep2024 20:35:32.495] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from aeb8acad-b07f-3592-936d-2db1c63c31db (Claro#aeb8acad) to 1141624e-476f-4bf7-b1b5-198256da8261 (HOT_POCKET#1141624e)
+[06Sep2024 20:35:32.495] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for aeb8acad-b07f-3592-936d-2db1c63c31db (Claro#aeb8acad) due to claim limits
+[06Sep2024 20:35:32.495] [Server thread/INFO] [FTB Chunks/]: Team HOT_POCKET#1141624e had 10 claimed chunks, now has 10
+[06Sep2024 20:35:36.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror moved too quickly! 0.1884693150568637,4.905776976094145,-12.657947756880109
+[06Sep2024 20:35:41.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Spooky Scary Skeleton]
+[06Sep2024 20:35:45.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Industrial Revolution]
+[06Sep2024 20:35:46.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Do more at once!]
+[06Sep2024 20:35:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Do more at once, faster!]
+[06Sep2024 20:35:47.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Hidden in the Depths]
+[06Sep2024 20:35:51.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Electric Magic]
+[06Sep2024 20:35:52.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Drop Pop Candy]
+[06Sep2024 20:35:56.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Even better Matter!]
+[06Sep2024 20:35:56.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Impossible Material]
+[06Sep2024 20:35:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma has made the advancement [Dancer in the Dark]
+[06Sep2024 20:35:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Electric Magic]
+[06Sep2024 20:35:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K has made the advancement [Dancer in the Dark]
+[06Sep2024 20:35:57.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[06Sep2024 20:36:06.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [The Ultimate Trash Can]
+[06Sep2024 20:36:08.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ has made the advancement [Electric Magic]
+[06Sep2024 20:36:08.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ has made the advancement [Dancer in the Dark]
+[06Sep2024 20:36:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Unnatural]
+[06Sep2024 20:36:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Tricking a Rock Into Thinking]
+[06Sep2024 20:36:19.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has completed the challenge [The Final Bookshelf]
+[06Sep2024 20:36:20.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Careful does it.]
+[06Sep2024 20:36:24.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Make it count, 1, 2, 4.]
+[06Sep2024 20:36:32.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Connecting]
+[06Sep2024 20:36:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Crafting on demand]
+[06Sep2024 20:36:38.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [The Citadel at the End of Time]
+[06Sep2024 20:36:43.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Infusing Efficiency]
+[06Sep2024 20:36:51.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [The Chaos of Hell]
+[06Sep2024 20:36:51.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Mastering the Inferno]
+[06Sep2024 20:36:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Delving Into Darkness]
+[06Sep2024 20:36:55.945] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:36:59.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [Gotta work, bees!]
+[06Sep2024 20:37:06.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro has made the advancement [The Purity of the Seas]
+[06Sep2024 20:37:15.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! -0.042538066969427746,-13.0,0.31544959706651454
+[06Sep2024 20:37:40.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Claro lost connection: Disconnected
+[06Sep2024 20:37:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Claro left the game
+[06Sep2024 20:38:15.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ moved too quickly! -3965.514548488906,-20.552699999809263,97.3138746335222
+[06Sep2024 20:38:29.686] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[06Sep2024 20:39:50.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luker64[/177.33.137.63:10033] logged in with entity id 2712700 at (4208.659157358369, 75.76453435325294, -23.007288862826687)
+[06Sep2024 20:39:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 joined the game
+[06Sep2024 20:39:50.668] [Server thread/INFO] [Jade/]: Syncing config to Luker64 (3d80748c-a24a-3e75-b3b6-f9f62017da8b)
+[06Sep2024 20:40:33.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ moved too quickly! -0.054446522191028635,-13.0,0.41874998807907104
+[06Sep2024 20:40:44.655] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Luker64#3d80748c to HOT_POCKET#1141624e
+[06Sep2024 20:40:44.655] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 3d80748c-a24a-3e75-b3b6-f9f62017da8b (Luker64#3d80748c) to 1141624e-476f-4bf7-b1b5-198256da8261 (HOT_POCKET#1141624e)
+[06Sep2024 20:40:44.655] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 3d80748c-a24a-3e75-b3b6-f9f62017da8b (Luker64#3d80748c) due to claim limits
+[06Sep2024 20:40:44.655] [Server thread/INFO] [FTB Chunks/]: Team HOT_POCKET#1141624e had 10 claimed chunks, now has 10
+[06Sep2024 20:41:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Sky of Beginning]
+[06Sep2024 20:41:36.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Impossible Material]
+[06Sep2024 20:41:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Unnatural]
+[06Sep2024 20:41:49.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06Sep2024 20:41:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Connecting]
+[06Sep2024 20:41:53.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Crafting on demand]
+[06Sep2024 20:42:27.945] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:42:31.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [The Chaos of Hell]
+[06Sep2024 20:42:31.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [The Purity of the Seas]
+[06Sep2024 20:42:32.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Mastering the Inferno]
+[06Sep2024 20:42:32.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Delving Into Darkness]
+[06Sep2024 20:42:33.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has completed the challenge [The Final Bookshelf]
+[06Sep2024 20:42:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Not a Fluid!]
+[06Sep2024 20:42:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Electric Magic]
+[06Sep2024 20:42:40.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Drop Pop Candy]
+[06Sep2024 20:42:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 has made the advancement [Dancer in the Dark]
+[06Sep2024 20:47:57.944] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 20:49:25.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Mastering the Inferno]
+[06Sep2024 20:49:25.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luker64 lost connection: Disconnected
+[06Sep2024 20:49:25.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luker64 left the game
+[06Sep2024 20:49:26.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Electric Magic]
+[06Sep2024 20:49:28.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Drop Pop Candy]
+[06Sep2024 20:49:29.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror has made the advancement [Dancer in the Dark]
+[06Sep2024 20:49:52.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spenser11_ lost connection: Disconnected
+[06Sep2024 20:49:52.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spenser11_ left the game
+[06Sep2024 20:50:19.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K lost connection: Disconnected
+[06Sep2024 20:50:19.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K left the game
+[06Sep2024 20:51:44.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nigror lost connection: Disconnected
+[06Sep2024 20:51:44.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nigror left the game
+[06Sep2024 20:52:09.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sallomma lost connection: Disconnected
+[06Sep2024 20:52:09.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sallomma left the game
+[06Sep2024 23:02:58.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BRAN2K[/152.254.161.241:62771] logged in with entity id 2780833 at (4102.070452170964, 56.11650136792814, 8.083795682071967)
+[06Sep2024 23:02:58.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRAN2K joined the game
+[06Sep2024 23:02:58.580] [Server thread/INFO] [Jade/]: Syncing config to BRAN2K (d3d3c7a6-0edf-30d6-81a5-43e9e3b888d6)
+[06Sep2024 23:02:59.944] [Server thread/INFO] [draconicevolution/]: Set time to midday! Cause: BlockPos{x=4306, y=67, z=32}
+[06Sep2024 23:03:38.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRAN2K moved too quickly! 0.11728526994465938,12.246800019478798,0.13848750909115992
+[06Sep2024 23:03:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Set own game mode to Creative Mode]
+[06Sep2024 23:05:24.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BRAN2K: Set own game mode to Survival Mode]
